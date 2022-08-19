@@ -59,8 +59,11 @@ Three Recommendations:
 
 Navigating the repository:
 Data can be found in zippedData folder
+
 awesome.gif is for funsies
+
 movie_data_erd.jpeg is map of the database from IMDB
+
 student.ipynb contains the coding and markup
 
 
