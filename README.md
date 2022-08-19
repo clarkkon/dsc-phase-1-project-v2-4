@@ -21,16 +21,22 @@ Taking these variables into consideration, I investigated the top film titles, s
 The most relevant, success-related columns from Box Office Mojo were  domestic gross and foregin gross amounts. I created another column for the total gross amount for each film, and adjusted those amounts for inflation. 
 
 I created the following visualizations from this data:
+![Top Grossing Films](https://user-images.githubusercontent.com/98120389/185688874-2cf1e845-e8c1-4e8a-a157-f9b36accf92e.png)
 
-
-
-
+![Top Grossing Studios](https://user-images.githubusercontent.com/98120389/185688883-b77c49d3-ddad-4986-b8c0-bcfb6081d961.png)
 
 The most relevant, success-related columns from IMDB were the average ratings and the number of votes for said ratings.  I took the top 25% based on each of those columns. I then value counted the genres in this top 25% to determine the top rated genres. 
 
 I created the following visualizations from this data. 
+![Top Rated Films](https://user-images.githubusercontent.com/98120389/185688906-8db4b03b-fe86-4c0a-b1ba-5c3672044b7d.png)
 
+![Top Rated Solo Genres](https://user-images.githubusercontent.com/98120389/185688986-af607b5d-ef42-4ad4-ad76-934ff1b1ae0a.png)
 
+![Top Rated MultiGenre Films](https://user-images.githubusercontent.com/98120389/185688914-b3694f1b-654c-49f4-bb80-e25220d1bd6e.png)
+
+![Top Rated Solo Genres Post Pandemic](https://user-images.githubusercontent.com/98120389/185689006-242ee8b5-46ad-4ab1-a917-fe8d7c8702ac.png)
+
+![Top Rated Multigenres Post Pandemic](https://user-images.githubusercontent.com/98120389/185688936-c6fadb6d-79d7-4e98-8d16-30aa3222659e.png)
 
 # Conclusion
 
