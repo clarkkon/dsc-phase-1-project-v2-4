@@ -2,7 +2,7 @@
 
 ## Overview and Business Understanding
 
-My project aims to discover the top films, studios, and genres to inform best practice for our new movie studio.
+My project aims to discover the top films, studios, and genres to inform best practice for our new movie studio. __[Here](https://docs.google.com/presentation/d/1_JF67-Pt34Av5e8E7B1tme76G3Ws0CBju3ZH-Sa_wMQ/edit?usp=sharing)__ is the link to my presentation.
 Questions: How can our new studio be successful?  What are the ways that current studios have been successful and why? Who can we look to for business models?  What kinds of films should we be creating?  How has the pandemic changed viewers' interests?
 
 ## Data Source and Data Description
@@ -56,5 +56,11 @@ Three Recommendations:
 
 3. The highest rated films and genres generate the most interest from viewers. These are the kinds of films we should consider making, and we may lean into the post-pandemic information a little more heavily to inform studio choices, as they may be the most relevant to success today. The top genres overall were dramas, documentaries, comedies, action movies, and biographies. Post pandemic, the top genres were dramas, action movies, documentaries, and thrillers.  We should consider creating movies within these genre parameters if we want to generate interest and increase our liklihood of achieving high ratings. 
 
+
+Navigating the repository:
+Data can be found in zippedData folder
+awesome.gif is for funsies
+movie_data_erd.jpeg is map of the database from IMDB
+student.ipynb contains the coding and markup
 
 
