@@ -67,4 +67,6 @@ movie_data_erd.jpeg is map of the database from IMDB
 
 student.ipynb contains the coding and markup
 
+presentation.pdf is Google Slides presentation of information
+
 
